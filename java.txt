@@ -1,0 +1,4 @@
+Scanner sc = new Scanner(System.in);
+sout("masukkan angka :" );
+int x = sc.nextLine();
+sout(x);
